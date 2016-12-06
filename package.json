@@ -1,0 +1,24 @@
+{
+  "name": "tcp-chat",
+  "version": "1.0.0",
+  "description": "A simple chat using tcp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeuCxb/tcp-chat.git"
+  },
+  "keywords": [
+    "tcp",
+    "chat",
+    "nodejs"
+  ],
+  "author": "ZeuCxb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZeuCxb/tcp-chat/issues"
+  },
+  "homepage": "https://github.com/ZeuCxb/tcp-chat#readme"
+}
